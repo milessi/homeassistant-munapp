@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "MunApp",
+        "description": "Enter your MunApp credentials.",
+        "data": {
+          "username": "Username",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid username or password.",
+      "cannot_connect": "Unable to connect to MunApp."
+    },
+    "abort": {
+      "already_configured": "This account is already configured."
+    }
+  }
+}
